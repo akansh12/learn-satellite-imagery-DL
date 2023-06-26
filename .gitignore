@@ -4,3 +4,16 @@ notebooks/dset-s2/tra_truth/
 notebooks/dset-s2/val_scene/
 notebooks/dset-s2/val_truth/
 notebooks/__MACOSX/._dset-s2
+notebooks/geo-pandas/new_yerevan.cpg
+notebooks/geo-pandas/Yerevan shapefile/Yerevan.cpg
+notebooks/geo-pandas/new_yerevan.dbf
+notebooks/geo-pandas/new_yerevan.prj
+notebooks/geo-pandas/new_yerevan.shp
+notebooks/geo-pandas/new_yerevan.shx
+notebooks/geo-pandas/cache/915f818a2c7ebbd2d1c605d25f2935132aea79db.json
+notebooks/geo-pandas/cache/a6207dd4aa98b864bc5728c9b764f1416b4de5c2.json
+notebooks/geo-pandas/cache/e66db191f200125af80ed2e639eafa3ba418efa6.json
+notebooks/geo-pandas/Yerevan shapefile/Yerevan.dbf
+notebooks/geo-pandas/Yerevan shapefile/Yerevan.prj
+notebooks/geo-pandas/Yerevan shapefile/Yerevan.shp
+notebooks/geo-pandas/Yerevan shapefile/Yerevan.shx
