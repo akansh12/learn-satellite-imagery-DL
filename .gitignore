@@ -1,0 +1,6 @@
+notebooks/dset-s2.zip
+notebooks/dset-s2/tra_scene/
+notebooks/dset-s2/tra_truth/
+notebooks/dset-s2/val_scene/
+notebooks/dset-s2/val_truth/
+notebooks/__MACOSX/._dset-s2
